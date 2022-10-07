@@ -19,4 +19,4 @@ CF-910
 
 
 
-- discurção Argumentativa x discurção Opinativa
+- discurssão Argumentativa x discurssão Opinativa
