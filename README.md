@@ -15,3 +15,8 @@ CF-910
 - Redação do Informe Científico: Projeto de pesquisa, Dissertações e Teses
 
 - Análise da qualidade e redação de Artigos Científicos.
+
+
+
+
+- discurção Argumentativa x discurção Opinativa
