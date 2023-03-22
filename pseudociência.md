@@ -1,3 +1,14 @@
+- Ciência Faca
+
+- Ciência Forte
+
+- Pseudo Ciência
+
+
+
+
+
+
 Como reconhecer uma pseudociência? Reconhece-se por possuir pelo menos duas das dez características seguintes, de acordo com o critério de demarcação do filósofo Mario Bunge:
 
 1. Invoca entes imateriais ou sobrenaturais inacessíveis ao exame empírico, por exemplo: força vital, alma imaterial, criação divina, inconsciente psicodinâmico, memória coletiva e predestinação histórica.
